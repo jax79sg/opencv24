@@ -1,0 +1,3 @@
+#OpenCV 2.4 template.
+- Clone this project and develop your app on top for support of OpenCV 2.4
+- OpenCV Manager should not be needed
